@@ -1,2 +1,10 @@
-# Machine-Learning_Project
-Predict internal overheating points for efficient temperature management
+# Index
+
+1. 데이터 분석
+2. 모델 비교
+    1. 로지스틱 회귀
+    2. 랜덤 포레스트
+    3. 서포트 벡터 머신
+    4. k-최근접 이웃
+    5. 결정 트리
+3. 모델 시각화
